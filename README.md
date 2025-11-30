@@ -1,8 +1,33 @@
-<h1 align="center" style="color:#e75480;">🌸 Salut, moi c’est <strong>Rania Ben Abdellah</strong> 🌸</h1>
+<div align="center" style="background:#ffe6f2; padding: 40px 0; border-radius: 10px;">
 
-<p align="center" style="color:#d6336c;">
-  Étudiante en Ingénierie Informatique (MIAGE) • Développeuse Java/Spring Boot • Microservices & Cloud • Passionnée par l’IA et les architectures modernes
+  <h1 style="color:#d63384; font-size: 40px; margin-bottom: 5px;">
+    Rania Ben Abdellah
+  </h1>
+
+  <h3 style="color:#ad2d68; font-weight: normal; margin-top: 0;">
+    Future Ingénieure MIAGE
+  </h3>
+
+</div>
+
+<br>
+
+<h2 align="center">Salut, moi c’est Rania Ben Abdellah 👋</h2>
+
+<p align="center">
+  🎓 Étudiante en Ingénierie Informatique & Réseaux (MIAGE) • 📍 Casablanca
 </p>
+
+<p align="center">
+  <a href="mailto:Rania.benab03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Rania.benab03%40gmail.com-d63384?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rania-ben-abdellah-3591b6304/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rania_Ben_Abdellah-ad2d68?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -81,15 +106,7 @@ Application web pour digitaliser la gestion d’un syndic résidentiel :
 
 ---
 
-## <span style="color:#e75480;">📊 Statistiques GitHub</span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rania-Ben-Abdellah&show_icons=true&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rania-Ben-Abdellah&layout=compact&theme=rose_pine" />
-</p>
 
 ---
 
