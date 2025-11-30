@@ -1,24 +1,24 @@
-<h1 align="center">👋 Salut, moi c’est <strong>Rania Ben Abdellah</strong></h1>
+<h1 align="center" style="color:#e75480;">🌸 Salut, moi c’est <strong>Rania Ben Abdellah</strong> 🌸</h1>
 
-<p align="center">
+<p align="center" style="color:#d6336c;">
   Étudiante en Ingénierie Informatique (MIAGE) • Développeuse Java/Spring Boot • Microservices & Cloud • Passionnée par l’IA et les architectures modernes
 </p>
 
 ---
 
-## 👩‍💻 À propos de moi
+## <span style="color:#e75480;">👩‍💻 À propos de moi</span>
 
 - 🎓 Élève ingénieure en informatique (MIAGE)  
 - 💻 Développeuse Java, Spring Boot & Spring Cloud  
-- 🧩 Intérêt pour les microservices, les API Gateway, le Cloud et les architectures distribuées  
+- 🧩 Intérêt pour les microservices, API Gateway, Cloud et architectures distribuées  
 - 🤖 Data & IA (projet d’orientation des étudiants – PFA)  
 - 📱 Intérêt pour Flutter + Firebase  
-- 🌐 Connaissances Cloud (Oracle Cloud Infrastructure – OCIR, OKE, DevOps…)   
-- 🌱 Toujours en train d’apprendre et d’améliorer mes compétences
+- 🌐 Connaissances Cloud (Oracle Cloud – OCIR, DevOps…)  
+- 🌱 Toujours en apprentissage pour évoluer chaque jour  
 
 ---
 
-## 🛠️ Compétences techniques
+## <span style="color:#e75480;">🛠️ Compétences techniques</span>
 
 ### 🔹 **Backend**
 - Java • Spring Boot  
@@ -34,7 +34,7 @@
 
 ### 🔹 **Frontend / Mobile**
 - Thymeleaf  
-- HTML • CSS • JS  
+- HTML • CSS • JavaScript  
 - Flutter  
 - Firebase (Auth, Firestore)
 
@@ -49,51 +49,55 @@
 - Docker  
 - Postman  
 
-
 ---
 
-## 🚀 Projets importants
+## <span style="color:#e75480;">🚀 Projets importants</span>
 
-### 🔸 **Microservices – Gestion d’événements**
+### 🌟 **Microservices – Gestion d’événements**
 Architecture complète :
-- Service User ↔ Service Event using OpenFeign  
-- Gateway & Eureka  
-- DTO, MapStruct, Flyway migrations  
-- API REST complète
+- Communication inter-services via **OpenFeign**  
+- **Eureka** pour la découverte  
+- **API Gateway** pour la gestion des routes  
+- DTO, MapStruct, Flyway  
+- API REST solide & modulaire  
 
-### 🔸 **Plateforme d’orientation – PFA**
-Analyse des notes + préférences étudiantes  
-Modèle IA pour recommandation d’orientation  
-Interface Streamlit
+---
 
+### 🌟 **Plateforme d’orientation – PFA**
+- Analyse des notes & préférences  
+- Modèle IA pour recommandation d’orientation  
+- Interface utilisateur basée sur **Streamlit**  
 
-### 🔸 E-Syndicat (Spring Boot + Thymeleaf + SQL)
-Application web pour la gestion d’un syndic résidentiel.  
-Fonctionnalités principales :
+---
+
+### 🌟 **E-Syndicat (Spring Boot + Thymeleaf + SQL)**  
+Application web pour digitaliser la gestion d’un syndic résidentiel :
+
 - 🏢 Gestion des résidences et des résidents  
-- 📢 Publication d’annonces internes  
-- 💳 Paiement et suivi des charges (cotisations)  
+- 📢 Annonces internes  
+- 💳 Paiement & suivi des cotisations  
 - 🛠️ Déclaration & gestion des incidents  
-- 👤 Espace résident / espace administrateur  
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rania-Ben-Abdellah&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rania-Ben-Abdellah&layout=compact" />
-</p>
+- 👤 Espace administrateur + espace résident  
 
 ---
 
-## 📫 Contact
+## <span style="color:#e75480;">📊 Statistiques GitHub</span>
 
-- 🌐 LinkedIn :(https://www.linkedin.com/in/rania-ben-abdellah-3591b6304/)
-- ✉️ Email : *(Rania.benab03@gmail.com)*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rania-Ben-Abdellah&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rania-Ben-Abdellah&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## <span style="color:#e75480;">📫 Contact</span>
+
+- 🔗 LinkedIn : https://www.linkedin.com/in/rania-ben-abdellah-3591b6304/  
+- ✉️ Email : Rania.benab03@gmail.com  
 
 <br>
 
-<p align="center"><strong>✨ Merci pour la visite ✨</strong></p>
+<p align="center" style="color:#e75480;"><strong>✨ Merci pour la visite ✨</strong></p>
